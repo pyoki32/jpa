@@ -3,6 +3,7 @@ package sideprj.sidejpa;
 import jakarta.persistence.*;
 
 import org.springframework.stereotype.Repository;
+import sideprj.sidejpa.domain.Member;
 
 @Repository
 public class MemberRepository {
